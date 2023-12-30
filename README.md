@@ -1,0 +1,1 @@
+# device_motorola_sm6375-common
